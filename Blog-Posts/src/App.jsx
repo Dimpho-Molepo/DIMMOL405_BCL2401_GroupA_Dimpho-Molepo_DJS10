@@ -43,12 +43,3 @@ function App() {
 }
 
 export default App
-
-
-
-// export interface Root2 {
-//   userId: number
-//   id: number
-//   title: string
-//   body: string
-// }
